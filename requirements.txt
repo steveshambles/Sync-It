@@ -1,0 +1,4 @@
+dirsync
+infi.systray
+wget
+Pillow
