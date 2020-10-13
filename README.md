@@ -2,12 +2,10 @@
 A friendly Windows only systray app to sync two folders as and when required.
 
 If you use this program, it's at your own risk.
-
-pip3 install dirsync
-
-pip3 install infi.systray
-
-pip3 install Pillow
+## Install requirements
+```
+pip3 install -r requirements.txt
+```
 
 Download source and Windows executable from homepage if required.
 Includes short tutorial.
